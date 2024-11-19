@@ -1,0 +1,43 @@
+Prepare a Toolkit for a standard. To fulfil the role of a consultant 
+for an organization.
+│
+├───ISO 27001:2022 Presentation
+│    ├───Introduction to ISO 27001
+│    ├───Benefits of ISO 27001
+│    ├───Financial Impact Analysis
+│    ├───Risk Management Strategies etc...
+├───Business Process Implementation Plan
+│    ├───Assemble a team and develop a plan 
+│    ├───Scope and baseline ISMS
+│    ├───ISMS Implementation...etc
+├───Specific Tools 
+│    ├───Asset Registry 
+│    ├───RACI matrix
+│    ├───Risk registry
+│    ├───Statement of Applicability...etc
+├───Implementation Documents
+│    ├───Scope
+│    ├───The context of the organization and the scope of the ISMS
+│    ├───Leadership
+│    ├───Planning
+│    ├───Supporting processes
+│    ├───Operations and etc...
+├───Checklist 
+│    ├───Context of the organization
+│    ├───Planning
+│    ├───Performance Evaluation
+│    ├───Improvement ...etc
+├───Management level Documents
+│    ├───Information Security Policy
+│    ├───Business Impact Analysis (BIA)
+│    ├───Return on Investment (ROI) Analysis
+│    ├───Incident Response Plan...etc
+├───Research Documents
+│    ├───A_Roadmap_to_ISMS_ISO_27001_Implementation_Process
+│    ├───ISO 27001 standard guide
+│    ├───ISO-27001-Implementation-Guide...etc
+├───Documentation Explaining the standard
+│    ├───Maintaining ISO 27001 Certification: Best Practices
+│    ├───Continually Test and Review Risks
+│    ├───Keep Documentation Up to Date
+│    ├───Perform Internal Audits...etc
